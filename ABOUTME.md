@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jake
+- 👀 I’m interested in entering into the programming field
+- 🌱 I’m currently pursuing Master's Degree in Master of Information Systems
+- 💞️ Passion for programming languages like HTML, CSS, JAVASCRIPT, REACT 
+- 📫 Reach me at lokekingloong@gmail.com or 385-392-3207 (United States Number)
