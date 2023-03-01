@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T22:11:03.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="sfFkFR68wBt7CrYSyMa4" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T22:20:04.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5p5Xgyj3pEvVsW38h5fi" version="20.8.23" type="github">
   <diagram name="Page-1" id="bXj3Bbf0HL6mkCAVgVnc">
-    <mxGraphModel dx="954" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,10 +30,10 @@
         <mxCell id="yKze-RVAeE0_kNcAVgIY-4" value="Customer Portal" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="460" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yKze-RVAeE0_kNcAVgIY-5" value="AWS DataBase" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+        <mxCell id="yKze-RVAeE0_kNcAVgIY-5" value="AWS DataBase (SAAS)" style="whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="650" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yKze-RVAeE0_kNcAVgIY-10" value="4.1&lt;br&gt;Customer Medata" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="yKze-RVAeE0_kNcAVgIY-10" value="4.1&lt;br&gt;Customer Metadata" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="650" y="290" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yKze-RVAeE0_kNcAVgIY-12" value="4.2&lt;br&gt;Data Encryption" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
@@ -98,6 +98,18 @@
         </mxCell>
         <mxCell id="g31mylocPvdE1S5H3Zu6-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="450" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g31mylocPvdE1S5H3Zu6-27" value="2.3&lt;br&gt;Email confirmation" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g31mylocPvdE1S5H3Zu6-29" value="4.3&lt;br&gt;Database Schema&lt;br&gt;with MySQL" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="650" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g31mylocPvdE1S5H3Zu6-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="400" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g31mylocPvdE1S5H3Zu6-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="20" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
