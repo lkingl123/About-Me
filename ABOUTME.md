@@ -1,4 +1,4 @@
-•👋 Hi, I’m Jake
+•👋 Hi, I’m Jake <br>
 •👀 I’m interested in software engineering and front-end development
 •🎓 I hold a Master's Degree in Master of Information Systems
 •💼 I'm currently working as a Software Engineer
